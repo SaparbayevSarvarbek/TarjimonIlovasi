@@ -2,9 +2,10 @@ Bu tarjimon ilovasi orqali 50 dan ortiq tillar orasida tarjima qila oladi. Bu il
 
 Kirish oynasi
 
-![Screenshot_1717084383](https://github.com/SaparbayevSarvarbek/TarjimonIlovasi/assets/155668531/da2bb800-38af-4bb2-81da-1dfa35d30cd4)
+![Screenshot_1717084242](https://github.com/SaparbayevSarvarbek/TarjimonIlovasi/assets/155668531/8b76435b-bbb6-45ce-83ab-e1166feb3a4d)
 
 
 Asosiy oynasi
 
-![Screenshot_1717084242](https://github.com/SaparbayevSarvarbek/TarjimonIlovasi/assets/155668531/c60bfea5-431a-4972-b4b3-444f7876b724)
+![image](https://github.com/SaparbayevSarvarbek/TarjimonIlovasi/assets/155668531/4c118ca9-760d-4c2a-a0f6-a481a8d6e17f)
+
